@@ -3,8 +3,9 @@ name: modest-proposal
 description: A skill for following cruel premises to their logical conclusions, exposing the horror of positions by taking them seriously.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4517
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - deadpan
 - modest-proposal
